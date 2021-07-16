@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "personal_miniprogram",
+  "description": "个人小程序项目",
+  "appid": "wx1af4b6724cd72f33",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}

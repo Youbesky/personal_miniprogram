@@ -1,0 +1,8 @@
+.index{
+  .at-tab-bar{
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+  .at-tab-bar__title{
+    max-width: 300px;
+  }
+}
